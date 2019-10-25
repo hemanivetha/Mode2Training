@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.hcl.streams.CountDemo&apos; to &apos;CountDemo1&apos;&#x0D;&#x0A;- Original project: &apos;StreamsDemo&apos;&#x0D;&#x0A;- Original element: &apos;com.hcl.streams.CountDemo&apos;&#x0D;&#x0A;- Renamed element: &apos;com.hcl.streams.CountDemo1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CountDemo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.hcl.streams{CountDemo.java[CountDemo" matchStrategy="1" name="CountDemo1" qualified="false" references="true" similarDeclarations="false" stamp="1568696186073" textual="false" version="1.0"/>
+</session>
